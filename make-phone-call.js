@@ -1,3 +1,5 @@
+//put this in a utility file
+
 import { Linking, Alert, Platform } from 'react-native';
 
 export const callNumber = phone => {
